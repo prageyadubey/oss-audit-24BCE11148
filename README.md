@@ -24,7 +24,7 @@ These scripts are designed to run on a Debian/Ubuntu-based Linux system (includi
 1. Open a Linux terminal and clone this repository:
    `git clone <your-repository-url>`
 2. Navigate into the directory:
-   `cd oss-audit-[your-roll-number]`
+   `cd oss-audit`
 3. Ensure all scripts have execution permissions:
    `chmod +x *.sh`
 4. Execute the scripts one by one:
